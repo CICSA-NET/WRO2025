@@ -14,3 +14,13 @@ Iván Ramón Hernández Gónzalez, at 21 years old, he studies Electronics Engin
 Sergio Amid Hernández Gónzalez, at 19 years old, he studies Software Engineering at Kuepa University. He has participated in numerous competitions, including: the 2019 WRO Regional in Guadalajara, Jalisco, México, where he obtained 1st place. In 2024, in the city of Mexicali, Baja California, México, they obtained 1st place in the preparatory category. He was part of the Mexican robotics team that represented Mexico at the ChampionShip in Italy in 2024.
 
 Xiara Gabriela Alcantar Dorame, she is 19 years old, studies Mechatronics Engineering at the Universidad Tecnológica de Nogales, in 2020 she was part of the CICSA team that would represent CICSA in the regional competition, but the pandemic prevented the event from taking place, for 2025 she will be part of the CICSA representative in the National competition in Rosarito, Baja California, México.
+
+
+
+<img width="222" height="315" alt="image" src="https://github.com/user-attachments/assets/b781f27f-25b8-4849-a22a-9517dacac7ab" />
+
+
+
+
+
+
